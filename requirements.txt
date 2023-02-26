@@ -31,3 +31,4 @@ GitPython
 torchsde
 safetensors
 psutil
+opencv-python
